@@ -29,7 +29,7 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "thephpleague/oauth2-client": "~0.11"
+        "thephpleague/oauth2-client": "dev-master"
     },
     "require-dev": {
         "phpunit/phpunit": "~4.0",
