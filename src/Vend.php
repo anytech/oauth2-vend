@@ -1,6 +1,6 @@
 <?php
 
-namespace Anytech\OAuth2\Client\Provider;
+namespace anytech\OAuth2\Client\Provider;
 
 use League\OAuth2\Client\Provider\AbstractProvider;
 use League\OAuth2\Client\Token\AccessToken;
