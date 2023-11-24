@@ -13,7 +13,7 @@ This package provides [Vend OAuth 2.0](https://developers.vendhq.com/documentati
 To install, use composer:
 
 ```
-composer require wheniwork/oauth2-vend
+composer require anytech/oauth2-vend
 ```
 
 ## Usage
