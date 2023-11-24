@@ -1,8 +1,13 @@
 {
-    "name": "wheniwork/oauth2-vend",
+    "name": "anytech/oauth2-vend",
     "description": "Vend OAuth 2.0 Client Provider for The PHP League OAuth2-Client",
     "license": "MIT",
     "authors": [
+        {
+            "name": "Kayne Middleton",
+            "email": "kayne@anytech.co.nz",
+            "role": "Developer"
+        },
         {
             "name": "Woody Gilk",
             "email": "woody.gilk@gmail.com",
@@ -32,12 +37,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Wheniwork\\OAuth2\\Client\\Provider\\": "src/"
+            "anytech\\OAuth2\\Client\\Provider\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Wheniwork\\OAuth2\\Client\\Test\\Provider\\": "tests/src/"
+            "anytech\\OAuth2\\Client\\Test\\Provider\\": "tests/src/"
         }
     }
 }
