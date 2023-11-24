@@ -37,12 +37,12 @@
     },
     "autoload": {
         "psr-4": {
-            "anytech\\OAuth2\\Client\\Provider\\": "src/"
+            "Anytech\\OAuth2\\Client\\Provider\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "anytech\\OAuth2\\Client\\Test\\Provider\\": "tests/src/"
+            "Anytech\\OAuth2\\Client\\Test\\Provider\\": "tests/src/"
         }
     }
 }
